@@ -41,8 +41,6 @@ Question/request: Write a paragraph about the capital of France.
 Answer: Paris is the capital and largest city of France. Paris is situated on the left bank of the Seine river, at its confluence with the Marne river, and its historical centre extends from the Latin Quarter to the Eiffel Tower.
 ---------------------------------------------------------------------------
 C:\Users\A1404VA\AppData\Local\Programs\Python\Python311\Lib\site-packages\ibm_watson_machine_learning\foundation_models\utils\utils.py:273: LifecycleWarning: Model 'meta-llama/llama-2-13b-chat' is in deprecated state from 2024-08-26 until None. IDs of alternative models: None. Further details: https://dataplatform.cloud.ibm.com/docs/content/wsj/analyze-data/fm-model-lifecycle.html?context=wx&audience=wdp
-
-
 ---------------------------------------------------------------------------
 Prompt:
 From the following customer complaint, extract 3 factors that caused the customer to be unhappy.
